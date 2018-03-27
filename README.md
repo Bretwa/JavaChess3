@@ -1,4 +1,4 @@
-JavaChess 3 has been created with Java 7 in 2012. It reaches depth 7 in about 1s on modern 2018 computer, features :
+JavaChess 3 has been created with Java 7 in 2012-2013. It reaches depth 7 in about 1s on modern 2018 computer, features :
 
 - human vs human
 - human vs comp
